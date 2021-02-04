@@ -147,9 +147,9 @@ h1 {
 .section-1 {
   display: flex;
   justify-content: center;
-
+  padding-left: 0 auto;
   padding-top: 2rem;
-  margin-left: 4rem;
+
 
 }
 
@@ -189,10 +189,8 @@ h3 {
 
 .instructions {
   font-size: 1.3rem;
-  margin-right: 10rem;
-  margin-left: 10rem;
-  margin-bottom: 15rem;
-  line-height: 2rem;
+  padding-left: 2rem;
+  margin: 10rem 15rem;
 }
 
 /*FOOTER*/
@@ -200,7 +198,7 @@ h3 {
 .footer-1 {
   border: 3px solid black;
   background-color: forestgreen;
-
+  width: 100%
 }
 
 .footer-2 {
