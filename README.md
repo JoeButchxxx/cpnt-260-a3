@@ -1,6 +1,6 @@
 # cpnt-260-a3 Joseph Butcher - gallery
 
-- the Second image on my page is the only part i cant seem to get responsive. moving forward i am going to try different ways to use text and images. 
+
 
 ## Image Resource
 
@@ -19,10 +19,10 @@
 
 ## client & goal 
 
-The client for this project was a local greenhouse owner who wanted a simple homepage with a few linked cards to show the produce she sold. The goal was to make the cards responsive in mobile and desktop. Unforuantly i couldnt get the cards to center how i wanted. 
+ 
 
 ## Repo & GitHub Page Link
 
-- Your site is ready to be published at https://joebutchxxx.github.io/cpnt-260-a2/.
+- 
 
-- https://github.com/JoeButchxxx/cpnt-260-a2
+- 
