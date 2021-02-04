@@ -1,4 +1,4 @@
-# cpnt-260-a3 Joseph Butcher - Cards
+# cpnt-260-a3 Joseph Butcher - gallery
 
 - the Second image on my page is the only part i cant seem to get responsive. moving forward i am going to try different ways to use text and images. 
 
