@@ -23,6 +23,8 @@ nav.primary a {
   display: block;
   padding: .7rem 2rem;
 
+  color: rgb(0, 0, 0);
+
   text-align: center;
   font-variant: small-caps;
   font-family: sans-serif;
@@ -30,13 +32,13 @@ nav.primary a {
 }
 
 nav.primary a:hover {
-  color: greenyellow;
+  color: rgb(255, 255, 255);
   background-color: black;
 }
 
 nav.primary a:active {
   background-color: black;
-  color: white;
+  color: rgb(255, 0, 0);
 }
 
 
@@ -198,14 +200,26 @@ h3 {
 }
 
 /*FOOTER*/
-
-.footer-1 {
-  border: 3px solid black;
-  background-color: forestgreen;
-  width: 100%;
+.socials {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  justify-items: center;
+  font-size: 3rem;
 }
 
-.footer-2 {
+.fab {
+  color: rgb(37, 206, 3);
+
+
+
+}
+
+.fab:hover {
+  color: rgb(255, 255, 255);
+  background-color: black;
+}
+
+.footer-1 {
   text-align: center;
-  font-size: 1rem;
+  font-size: 1.3rem;
 }

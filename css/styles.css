@@ -37,6 +37,7 @@ footer {
   flex-direction: row;
   flex-wrap: wrap;
   align-items: center;
+
 }
 
 .gallery-2 {
@@ -53,7 +54,7 @@ footer {
   padding: 3px 3px;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
-  grid-gap: 15px;
+  grid-gap: 10px;
   flex-direction: row;
   flex-wrap: wrap;
   padding-bottom: 10rem;
@@ -61,12 +62,14 @@ footer {
 
 figure {
   border: 1px solid rgb(0, 0, 0);
-  box-shadow: 2px 2px 6px 0px rgb(71, 155, 52);
+  box-shadow: 2px 6px 6px 0px rgb(2, 5, 2);
+  background-color: rgb(223, 240, 208);
 }
 
 figure>p {
   font-size: 1.4rem;
   text-align: center;
+  font-weight: 600;
 }
 
 /*MEDIA QUERY*/
@@ -124,5 +127,9 @@ figure>p {
 
   h3 {
     font-size: 1.5rem;
+  }
+
+  .socials {
+    font-size: 2rem;
   }
 }
