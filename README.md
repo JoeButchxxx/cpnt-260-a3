@@ -1,6 +1,12 @@
 # cpnt-260-a3 Joseph Butcher - gallery
 
 
+## Repo & GitHub Page Link
+
+- https://github.com/JoeButchxxx/cpnt-260-a3
+
+- Site is published at https://joebutchxxx.github.io/cpnt-260-a3/
+
 
 ## Image Resource
 
@@ -45,11 +51,6 @@
 - Website link - https://www.gardenia.net/plants/plant-types
 
 ## client & goal 
-
+ - My clients goal was to add a gallery page to our existent webpage. It could be the beginning of a shop page or just a gallery.
  
-
-## Repo & GitHub Page Link
-
-- 
-
-- 
+ - Personal goals were to improve overall sematics and structure. I think i was able to improve alot of the content apart from one image on the homepage, i contemplated totally removing it. 
