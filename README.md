@@ -22,6 +22,13 @@
 
 - https://www.pexels.com/photo/huge-hothouse-with-potted-flowers-and-plants-located-around-wooden-dresser-4947111/
 
+- https://www.pexels.com/photo/ripe-bananas-on-white-background-4114144/
+
+- https://www.pexels.com/photo/assorted-color-ingredients-on-grey-wooden-table-1400171/
+
+- https://www.pexels.com/photo/photo-of-female-hand-holding-a-bowl-of-green-vegetables-4117550/
+
+- https://www.pexels.com/photo/red-and-yellow-citrus-fruits-on-brown-plate-5799685/
 
 - Spratt, A. (2020, November 07). Photo by Annie Spratt on Unsplash. Retrieved January 31, 2021, from https://unsplash.com/photos/S7viz8JWxwY?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditShareLink
 
